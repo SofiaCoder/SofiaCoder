@@ -1,3 +1,4 @@
+![banner.png](https://github.com/SofiaCoder/SofiaCoder/blob/20c2fd4223b10cd4cb46e5fb36af4f0d75d8bc20/banner.png)
 ## Hey you! 👋
 
 ### I'm Sofia! Welcome to my Github-page
