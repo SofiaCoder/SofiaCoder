@@ -1,4 +1,4 @@
-![banner.png](https://github.com/SofiaCoder/SofiaCoder/blob/20c2fd4223b10cd4cb46e5fb36af4f0d75d8bc20/banner.png)
+![banner.png](https://github.com/SofiaCoder/SofiaCoder/blob/264b011db9e2e5d483490963bf8106cc77ca256c/moonbanner.png)
 ## Hey you! 👋
 
 ### I'm Sofia! Welcome to my Github-page
