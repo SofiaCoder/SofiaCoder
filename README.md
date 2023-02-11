@@ -10,6 +10,8 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SofiaCoder&theme=jolly&show_icons=true)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SofiaCoder&layout=compact)](https://github.com/SofiaCoder/github-readme-stats)
+
 <!--
 **SofiaCoder/SofiaCoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
