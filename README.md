@@ -4,13 +4,13 @@
 ### I'm Sofia! Welcome to my Github-page
 
 
-- 🌱 I’m currently learning Javascript, HTML, CSS, React, Sass, MySQL, NodeJS and more
+- 🌱 Writing Javascript, HTML, CSS, React, Sass, MySQL, NodeJS, MongoDB, NextJS and more
 
 - 📫 How to reach me: sofia.laas@gmail.com
 
 - ⚡ Fun fact: I'm a Doctor of Naprapathy that now has choosen to change profession and become a software engineer.
 
-- 💬 Ask me about Naprapathy 😜 (Soon about JS, MySQL, React and more!)
+- 💬 Ask me about JS, MongoDB, MySQL, React and more!
 <br />
 <br />
 
