@@ -4,7 +4,9 @@
 ### I'm Sofia! Welcome to my Github-page
 
 
-- 🌱 Writing Javascript, HTML, CSS, React, Sass, MySQL, NodeJS, MongoDB, NextJS and more
+- 💻 Writing Javascript, HTML, CSS, React, Sass, MySQL, NodeJS, MongoDB, NextJS and more
+  
+- 🌱 Currently learning JAVA
 
 - 📫 How to reach me: sofia.laas@gmail.com
 
